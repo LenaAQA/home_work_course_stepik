@@ -15,3 +15,4 @@ def test_should_see_add_to_basket_button(browser):
     )
 
     assert button.is_displayed()
+
